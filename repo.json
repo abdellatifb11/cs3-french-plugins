@@ -1,8 +1,5 @@
-{
-  "name": "French Only Repo",
-  "description": "Mon dépôt CloudStream FR — films & séries en VF/VOSTFR",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/abdellatifb11/cs3-french-plugins/main/plugins.json"
-  ]
-}
+[
+  "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-francais/master/frenchstream/src/main/AndroidManifest.xml",
+  "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-francais/master/wiflix/src/main/AndroidManifest.xml",
+  "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-francais/master/coflix/src/main/AndroidManifest.xml"
+]
