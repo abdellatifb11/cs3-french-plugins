@@ -1,0 +1,23 @@
+{
+  "name": "French Only Repo",
+  "plugins": [
+    {
+      "name": "FrenchStream",
+      "description": "Films et séries en VF / VOSTFR",
+      "url": "https://raw.githubusercontent.com/ycngmn/CuxPlug/main/plugins/frenchstream.cs3",
+      "version": 1
+    },
+    {
+      "name": "Coflix",
+      "description": "Streaming français HD",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/main/plugins/Coflix.cs3",
+      "version": 1
+    },
+    {
+      "name": "Wiflix",
+      "description": "Films et séries françaises",
+      "url": "https://raw.githubusercontent.com/recloudstream/cs-plugins/master/plugins/fr_wiflix.cs3",
+      "version": 1
+    }
+  ]
+}
